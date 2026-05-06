@@ -32,11 +32,7 @@ npm install
 npm run dev
 ```
 
-## 2. Copyright
 
-You are welcome to use and modify the codebase for personal and educational purposes. However, please respect the original designer's work and do not use this project for commercial purposes without appropriate permissions.
-
-© 2024 Moamal Alaa Kareem | All rights reserved.
 
 ## 3. Technologies Used
 
