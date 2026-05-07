@@ -4,13 +4,9 @@
 
 <h1 align="center">E-Commerce Website</h1>
 
-<p align="center">
-  Designed by: <a href="https://dribbble.com/mdrimel15" target="_blank">mdrimel15</a>, 
-  Design on <a href="https://www.figma.com/file/bwhp2Q5jdzJDIw5YIsBlXe/Full-E-Commerce-Website-UI-UX-Design-(Community)?node-id=34%3A213&mode=design" target="_blank">Figma</a>
-</p>
 
-> [!Note]
-> This project was featured on <a href="https://www.codewithrandom.com/2024/06/04/create-e-commerce-website-using-react" target="_blank">CodeWithRandom</a>. 
+ 
+
 
 
 
