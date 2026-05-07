@@ -10,23 +10,18 @@
 </p>
 
 > [!Note]
-> This project was featured on <a href="https://www.codewithrandom.com/2024/06/04/create-e-commerce-website-using-react" target="_blank">CodeWithRandom</a>. Please give credit to the original repository: <a href="https://github.com/Moamal-2000/e-commerce">https://github.com/Moamal-2000/e-commerce</a>
+> This project was featured on <a href="https://www.codewithrandom.com/2024/06/04/create-e-commerce-website-using-react" target="_blank">CodeWithRandom</a>. 
 
-## 1. Installation
 
-**1. Clone the repository:**
 
-```bash
-git clone git@github.com:Moamal-2000/e-commerce.git
-```
 
-**2. Install dependencies:**
+**1. Install dependencies:**
 
 ```bash
 npm install
 ```
 
-**3. Start the development server:**
+**2. Start the development server:**
 
 ```bash
 npm run dev
